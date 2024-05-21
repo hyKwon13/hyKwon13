@@ -3,7 +3,7 @@
 <!-- Python -->
 <a href="https://www.python.org/" target="blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- FastAPI -->
 <a href="https://fastapi.tiangolo.com/" target="blank">
