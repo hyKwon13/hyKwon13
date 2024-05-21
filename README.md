@@ -1,4 +1,8 @@
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/clouds/50/000000/cloud.png" alt="icon"/>
+  My Tech Stack
+  <img src="https://img.icons8.com/clouds/50/000000/cloud.png" alt="icon"/>
+</h2>
 <p align="center">Here are some of the technologies I've been working with:</p>
 
 <div align="center">
