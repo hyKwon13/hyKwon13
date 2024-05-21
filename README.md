@@ -24,7 +24,6 @@
 </a><br/>
 
 <!-- FastAPI -->
-<a href="https://fastapi.tiangolo.com/" target="_blank">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 </a>
 
