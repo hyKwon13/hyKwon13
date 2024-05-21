@@ -8,11 +8,11 @@
 <div align="center">
   <!-- Python -->
   <a href="https://www.python.org/" target="blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   </a><br/>
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>&nbsp
   </a>
   <!-- PaddlePaddle -->
   <a href="https://www.paddlepaddle.org.cn/en" target="blank">
