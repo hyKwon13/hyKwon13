@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Python -->
-  <a href="https://www.python.org/" target="blank">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   </a><br/>
   <!-- PyTorch -->
