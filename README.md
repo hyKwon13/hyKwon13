@@ -12,7 +12,7 @@
   </a><br/>
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
   <!-- PaddlePaddle -->
   <a href="https://www.paddlepaddle.org.cn/en" target="blank">
