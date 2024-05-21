@@ -1,4 +1,4 @@
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <p align="center">Here are some of the technologies I've been working with:</p>
 
 <div align="center">
