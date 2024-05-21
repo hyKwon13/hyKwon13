@@ -1,8 +1,4 @@
-<h2 align="center">
-  <img src="https://img.icons8.com/doodle/48/000000/toolbox.png" alt="tool-icon" width="30" height="30"/>
-  My Tech Stack
-  <img src="https://img.icons8.com/doodle/48/000000/toolbox.png" alt="tool-icon" width="30" height="30"/>
-</h2>
+<h2 align="center">Tech Stack</h2>
 <p align="center">Here are some of the technologies I've been working with:</p>
 
 
