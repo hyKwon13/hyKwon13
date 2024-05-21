@@ -10,7 +10,6 @@
 </a>
 
 <!-- ONNX -->
-<a href="https://onnx.ai/" target="_blank">
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white"/>
 </a>&nbsp;
 
