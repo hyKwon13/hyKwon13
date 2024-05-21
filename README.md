@@ -8,7 +8,7 @@
 <div align="center">
   <!-- Python -->
   <a href="https://www.python.org/" target="blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
   </a><br/>
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="blank">
