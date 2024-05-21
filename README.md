@@ -42,6 +42,14 @@
   <a href="https://www.sqlite.org/" target="blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
   </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  </a>
+  <!-- MariaDB -->
+  <a href="https://mariadb.org/" target="blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+  </a>
   <br/>
   <!-- Raspberry Pi -->
   <a href="https://www.raspberrypi.org/" target="blank">
