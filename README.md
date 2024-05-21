@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Python -->
 <a href="https://www.python.org/" target="blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -8,17 +6,17 @@
 <!-- PyTorch -->
 <a href="https://pytorch.org/" target="blank">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- ONNX -->
 <a href="https://onnx.ai/" target="blank">
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- PySide6 -->
 <a href="https://wiki.qt.io/Qt_for_Python" target="blank">
   <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- OpenCV -->
 <a href="https://opencv.org/" target="blank">
@@ -28,17 +26,17 @@
 <!-- FastAPI -->
 <a href="https://fastapi.tiangolo.com/" target="blank">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="blank">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- SQLite -->
 <a href="https://www.sqlite.org/" target="blank">
@@ -48,7 +46,7 @@
 <!-- Raspberry Pi -->
 <a href="https://www.raspberrypi.org/" target="blank">
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- NVIDIA Jetson -->
 <a href="https://developer.nvidia.com/embedded-computing" target="blank">
@@ -58,12 +56,12 @@
 <!-- Ubuntu -->
 <a href="https://ubuntu.com/" target="blank">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-</a>
+</a><br/>
 
 <!-- Docker -->
 <a href="https://www.docker.com/" target="blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</a>
+</a><br/>
 
 <!--
 **hyKwon13/hyKwon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
