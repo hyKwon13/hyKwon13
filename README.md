@@ -57,7 +57,7 @@
   </a>
   <!-- Naver Cloud -->
   <a href="https://www.ncloud.com/" target="blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
   <br/>
   <!-- Raspberry Pi -->
