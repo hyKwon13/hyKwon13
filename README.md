@@ -51,6 +51,15 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   </a>
   <br/>
+  <!-- NGINX -->
+  <a href="https://www.nginx.com/" target="blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+  </a>
+  <!-- Naver Cloud -->
+  <a href="https://www.ncloud.com/" target="blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+  <br/>
   <!-- Raspberry Pi -->
   <a href="https://www.raspberrypi.org/" target="blank">
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>
