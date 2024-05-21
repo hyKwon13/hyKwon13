@@ -1,9 +1,10 @@
 <h2 align="center">
-  <img src="https://img.icons8.com/clouds/50/000000/cloud.png" alt="icon"/>
+  <img src="https://img.icons8.com/doodle/48/000000/toolbox.png" alt="tool-icon" width="30" height="30"/>
   My Tech Stack
-  <img src="https://img.icons8.com/clouds/50/000000/cloud.png" alt="icon"/>
+  <img src="https://img.icons8.com/doodle/48/000000/toolbox.png" alt="tool-icon" width="30" height="30"/>
 </h2>
 <p align="center">Here are some of the technologies I've been working with:</p>
+
 
 <div align="center">
   <!-- Python -->
