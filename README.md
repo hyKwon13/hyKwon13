@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Hoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyKwon13)](https://github.com/hyKwon13/github-readme-stats)
 
 <!--
 **hyKwon13/hyKwon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
