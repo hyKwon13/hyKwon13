@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Hoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyKwon13)](https://github.com/hyKwon13/github-readme-stats)
+
+<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+
 
 <!--
 **hyKwon13/hyKwon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
