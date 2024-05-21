@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   </a>
   <!-- PaddlePaddle -->
-  <a href="https://www.paddlepaddle.org/" target="blank" style="margin-left: 10px;">
+  <a href="https://www.paddlepaddle.org.cn/en" target="blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/PaddlePaddle-005CED?style=flat-square&logo=PaddlePaddle&logoColor=white"/>
   </a>
   <!-- ONNX -->
