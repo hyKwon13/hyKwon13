@@ -5,7 +5,7 @@
   <!-- Python -->
   <a href="https://www.python.org/" target="blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  </a>
+  </a><br/>
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -21,7 +21,7 @@
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="blank">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-  </a>
+  </a><br/>
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="blank">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
@@ -37,7 +37,7 @@
   <!-- SQLite -->
   <a href="https://www.sqlite.org/" target="blank">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>
-  </a>
+  </a><br/>
   <!-- Raspberry Pi -->
   <a href="https://www.raspberrypi.org/" target="blank">
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
@@ -45,7 +45,7 @@
   <!-- NVIDIA Jetson -->
   <a href="https://developer.nvidia.com/embedded-computing" target="blank">
     <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
-  </a>
+  </a><br/>
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
