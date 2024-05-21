@@ -1,70 +1,58 @@
-<h2>My Tech Stack</h2>
-<p>Here are some of the technologies I've been working with:</p>
+<h2 align="center">My Tech Stack</h2>
+<p align="center">Here are some of the technologies I've been working with:</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="center">
   <!-- Python -->
   <a href="https://www.python.org/" target="blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   </a>
-
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
-
   <!-- ONNX -->
   <a href="https://onnx.ai/" target="blank">
-    <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white"/>
   </a>
-
   <!-- PySide6 -->
   <a href="https://wiki.qt.io/Qt_for_Python" target="blank">
-    <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=Qt&logoColor=white"/>
   </a>
-
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
   </a>
-
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="blank">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
   </a>
-
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   </a>
-
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/" target="blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   </a>
-
   <!-- SQLite -->
   <a href="https://www.sqlite.org/" target="blank">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>
   </a>
-
   <!-- Raspberry Pi -->
   <a href="https://www.raspberrypi.org/" target="blank">
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
   </a>
-
   <!-- NVIDIA Jetson -->
   <a href="https://developer.nvidia.com/embedded-computing" target="blank">
-    <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
   </a>
-
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="blank">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   </a>
-
   <!-- Docker -->
   <a href="https://www.docker.com/" target="blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   </a>
 </div>
 
