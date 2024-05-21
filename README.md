@@ -3,7 +3,7 @@
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-</a><br/>
+</a><br/>&nbsp;
 
 <!-- PyTorch -->
 <a href="https://pytorch.org/" target="_blank">
