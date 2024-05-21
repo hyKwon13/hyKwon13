@@ -11,6 +11,10 @@
   <a href="https://pytorch.org/" target="blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
+  <!-- PaddlePaddle -->
+  <a href="https://www.paddlepaddle.org/" target="blank">
+    <img src="https://img.shields.io/badge/PaddlePaddle-005CED?style=for-the-badge&logo=PaddlePaddle&logoColor=white"/>
+  </a>
   <!-- ONNX -->
   <a href="https://onnx.ai/" target="blank">
     <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white"/>
