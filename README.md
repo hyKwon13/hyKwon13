@@ -13,7 +13,7 @@
 <!-- ONNX -->
 <a href="https://onnx.ai/" target="_blank">
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white"/>
-</a>
+</a>&nbsp;
 
 <!-- PySide6 -->
 <a href="https://wiki.qt.io/Qt_for_Python" target="_blank">
