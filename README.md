@@ -4,7 +4,7 @@
   <!-- Python -->
   <a href="https://www.python.org/" target="blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  </a>
+  </a><br/>
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
