@@ -50,7 +50,6 @@
   <a href="https://mariadb.org/" target="blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   </a>
-  <br/>
   <!-- NGINX -->
   <a href="https://www.nginx.com/" target="blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
