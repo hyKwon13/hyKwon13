@@ -55,13 +55,13 @@
     <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
   <br/>
-  <!-- Raspberry Pi -->
-  <a href="https://www.raspberrypi.org/" target="blank">
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>
-  </a>
   <!-- NVIDIA Jetson -->
   <a href="https://developer.nvidia.com/embedded-computing" target="blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+  </a>
+  <!-- Raspberry Pi -->
+  <a href="https://www.raspberrypi.org/" target="blank">
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>
   </a>
   <br/>
   <!-- Ubuntu -->
